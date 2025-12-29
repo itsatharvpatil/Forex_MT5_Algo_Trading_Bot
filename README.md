@@ -11,3 +11,8 @@ This repository provides a **Random Forest–based automated Forex trading syste
 - **Time-Series Cross-Validation** approaches (in Azure ML).
 - **Backtesting Scripts** using historical data to validate strategy viability.
 - **Feature Engineering** with technical indicators (e.g., RSI, EMA, MACD) and rolling statistics.
+
+## License
+This project is licensed for non-commercial use only.
+Commercial use, including live trading or offering this software as a service,
+is prohibited without explicit permission.
