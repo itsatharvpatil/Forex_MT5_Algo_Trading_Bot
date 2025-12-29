@@ -3,9 +3,16 @@ Copyright (c) 2025 Atharv Patil
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"),
 to use, copy, modify, and distribute the Software for
-non-commercial purposes only.
+non-commercial, research, and educational purposes only.
 
-Commercial use of the Software is strictly prohibited without prior
-written permission from the copyright holder.
+Commercial use is strictly prohibited. Commercial use includes, but is not
+limited to:
+- Use of the Software for live or paper trading for profit
+- Use within proprietary trading firms, hedge funds, or financial institutions
+- Offering the Software or its derivatives as part of a paid service, platform,
+  or subscription
+- Use in SaaS, APIs, or automated trading products
+
+Any commercial use requires prior written permission from the copyright holder.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
